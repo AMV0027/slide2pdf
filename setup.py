@@ -14,10 +14,10 @@ setup(
     },
     author='Arunmozhi Varman',
     author_email='amv.k.2712005@gmail.com',
-    description='CLI tool to convert all PowerPoint files in a folder to PDF using MS PowerPoint',
+    description='Windows CLI tool to convert all PowerPoint files in a folder to PDF using MS PowerPoint',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/slide2pdf', 
+    url='https://github.com/AMV0027/slide2pdf', 
     classifiers=[
         'Programming Language :: Python :: 3',
         'Operating System :: Microsoft :: Windows',

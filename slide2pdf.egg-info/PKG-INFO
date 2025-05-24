@@ -1,0 +1,22 @@
+Metadata-Version: 2.4
+Name: slide2pdf
+Version: 0.1
+Summary: CLI tool to convert all PowerPoint files in a folder to PDF using MS PowerPoint
+Home-page: https://github.com/AMV0027/slide2pdf
+Author: Arunmozhi Varman
+Author-email: amv.k.2712005@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Utilities
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: comtypes
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

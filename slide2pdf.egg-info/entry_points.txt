@@ -1,0 +1,2 @@
+[console_scripts]
+slide2pdf = slide2pdf.cli:main
